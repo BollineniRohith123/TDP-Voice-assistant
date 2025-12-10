@@ -1,0 +1,7 @@
+{
+  "name": "TDP Voice Connect",
+  "description": "Interactive voice platform for Telugu Desam Party schemes and information.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
